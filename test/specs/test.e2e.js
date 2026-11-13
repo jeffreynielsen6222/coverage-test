@@ -169,7 +169,6 @@ describe("Apparel Sort Menu", () => {
 
         await expect(sorted).toBe(true);
     });
-
 });
 
 function isSorted(array) {

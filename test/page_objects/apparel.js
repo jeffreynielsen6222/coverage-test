@@ -68,8 +68,8 @@ class ApparelPage extends Page {
         }
     }
 
-    open () {
-        return super.open("index.html?dept=3");
+    open() {
+        return super.open("index.html?dept=5");
     }
 }
 
